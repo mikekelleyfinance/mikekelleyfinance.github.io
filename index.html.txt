@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Mike Kelley Financials</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+
+<table width="600" border="0" align="center" cellpadding="10">
+  <tr>
+    <td align="center">
+      <h1><font face="Arial, Helvetica" size="5"><b>MIKE KELLEY</b></font></h1>
+      <h2><font face="Arial, Helvetica" size="4">Financial Performance Reports &amp; Advisory</font></h2>
+      <hr>
+      <p><font face="Arial, Helvetica" size="3">
+        <a href="#about">About</a> | 
+        <a href="#services">Services</a> | 
+        <a href="#portfolio">Sample Reports</a> | 
+        <a href="#contact">Contact</a>
+      </font></p>
+      <hr>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3><font face="Arial, Helvetica" size="4"><a name="about">About Mike Kelley</a></font></h3>
+      <p><font face="Arial, Helvetica" size="3">
+        I provide clear, no-nonsense monthly financial reports and advisory for small business owners. 
+        My reports combine TTM trends, contribution margin analysis, OpEx control, and actionable debt strategies — 
+        exactly like the Berkshire Hathaway style: simple, honest, and useful.
+      </font></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3><font face="Arial, Helvetica" size="4"><a name="services">Services</a></font></h3>
+      <ul>
+        <li><font face="Arial, Helvetica" size="3">Monthly TTM Financial Dashboards (PDF)</font></li>
+        <li><font face="Arial, Helvetica" size="3">Contribution Margin &amp; Efficiency Analysis</font></li>
+        <li><font face="Arial, Helvetica" size="3">Debt Paydown Planning &amp; Cash Flow Modeling</font></li>
+        <li><font face="Arial, Helvetica" size="3">90-Day Action Plans &amp; KPI Scorecards</font></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3><font face="Arial, Helvetica" size="4"><a name="portfolio">Sample Client Work (Anonymized)</a></font></h3>
+      <p><font face="Arial, Helvetica" size="3"><b>Summit Supply Co. — February 2025 Report</b></font></p>
+      <p><font face="Arial, Helvetica" size="3">
+        Even with sales down 7%, contribution margin held steady at ~$44K (59% margin — strongest in 4 years). 
+        OpEx reached historic lows. Positive $10K net income already. Clear path to pay down $82K credit line.
+      </font></p>
+      <p><font face="Arial, Helvetica" size="3" color="#666666">
+        Full anonymized PDF sample coming very soon (upload in progress)
+      </font></p>
+      <hr>
+      <!-- Add more samples here later -->
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3><font face="Arial, Helvetica" size="4"><a name="contact">Contact</a></font></h3>
+      <p><font face="Arial, Helvetica" size="3">
+        Email: <a href="mailto:mike@mikekelleyfinancials.com">mike@mikekelleyfinancials.com</a><br>
+        Or reply to this page and I’ll get back within 24 hours.
+      </font></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <hr>
+      <p><font face="Arial, Helvetica" size="2">
+        © 2026 Mike Kelley Financials • All reports prepared for discussion purposes only • 
+        <a href="#">Privacy</a>
+      </font></p>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
